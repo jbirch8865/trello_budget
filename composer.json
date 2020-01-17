@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jbirch8865/php_tools": "^1.4",
+        "phpunit/phpunit": "^8.5"
+    }
+}
